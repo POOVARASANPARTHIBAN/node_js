@@ -1,0 +1,26 @@
+{
+  "name": "second-project",
+  "version": "1.0.0",
+  "description": "Second Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/POOVARASANPARTHIBAN/node_js.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Poovarasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/POOVARASANPARTHIBAN/node_js/issues"
+  },
+  "homepage": "https://github.com/POOVARASANPARTHIBAN/node_js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
